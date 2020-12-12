@@ -1,2 +1,7 @@
 # rpi3-osdi
-implementation for lab (...to be continue)
+Implementation for labs from NCTU
+
+## Lab0
+It's a simple program that do the infinite loop
+#### Entrypoint
+- start.s
